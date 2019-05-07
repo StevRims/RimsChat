@@ -104,7 +104,7 @@ ENGAGEMENT DE CONFIDENTIALITE ET DE NON DIVULGATION
         vigueur durant les 5 (cinq) années à compter de la date effective.
         
         14- Cet engagement doit être interprété et appliqué selon les lois et les réglementations
-        françaises. Tout litige concernant cet Engagement, sans règlement préalable à l’amiable
+        ivoiriennes. Tout litige concernant cet Engagement, sans règlement préalable à l’amiable
         sera porté devant les juridictions compétentes.
         
   Fait à Abidjan, le 14/09/2018.
