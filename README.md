@@ -1,14 +1,27 @@
 # RimsChat
-RimsChat+ est un réseau social intelligent
+RimsChat+ est un réseau social intelligent qui vous permettra de vous faire des amis et rester en contact avec vos amis et votre famille. Il est basé sur 03 grandes fonctionnalités que sont : News, Chat et Blog.
+
+*News :: L'utilisateur reçoit en temps réel toute l'actualité du pays dans lequel il est. Cette actualité est repartie pour le moment suivant 03 grands thèmes : Politique, Economie et Sport. Ainsi vous restez informé de tout ce qui se passe autour de vous.
+
+*Chat :: L'utilisateur pourra échanger avec ses amis qu'il se sera fait sur l'application. Il y'a deux types de Chat : Privé et Groupe. Le chat privé est un chat à deux et les échanges sont en temps réel.
+
+*Blog :: Le blog est un type de compte spécial créé pour toute personne voulant influencer le public. L'utilisateur sera amené à produire des articles qu'il soumettra à ses intéressés pour lecture et réaction (Commentaire et Rims). Par ailleurs, l'utilisateur pourra échanger avec ses intéressés par message et échanger aussi avec tous les autres utilisateurs dans le RimsWorld :)
 
  CONDITIONS D'UTILISATIONS :
  
-         -Il est formellement interdit de faire des posts à caractère pornographiques auquel cas le présent 
-         engagement se verra être rompu et une suppression imminente du compte utilisateur sera fait.
-         -Il est formellement interdit de divulger les informations disponibles sur cette application 
-         sur d'autres réseaux sociaux auquel cas le présent engagement se verra être rompu.
-         -La présente application ne présente pas de moyens de suppression d'un post ou encore message,
-         soyez donc conscient de ce que vous publiez.
+     Ce présent document fait état des conditions d’utilisation de l’application
+    RimsChat+. Notez que :
+     Il est formellement interdit de faire des posts à caractère pornographiques
+    en public auquel cas le présent engagement se verra être rompu et une
+    suppression imminente du compte utilisateur sera faite ;
+     Soyez conscient de ce que vous publiez, et ne postez rien en rapport avec
+    votre vie privée. Nous déclinons toute responsabilité en cas de dommage ;
+     Tout auteur d’un post faisant état d’incitation à la haine verra son compte
+    lui être retiré ;
+     Les propos politiques en public déplacés sont interdits. Vous êtes
+    parfaitement responsable de ce que vous postez et vous en assumerez les
+    parfaites sanctions. « RimsChat+ décline toute responsabilité quant aux
+    sanctions qui pourraient vous arrivez » ;
 
 
 ENGAGEMENT DE CONFIDENTIALITE ET DE NON DIVULGATION
